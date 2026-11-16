@@ -44,6 +44,15 @@ Using the right tools can significantly improve:
 - 10–30% lower trading fees
 - Multi-wallet support
 - Optimized for high-frequency trading
+## Recommended Hosting: AgentVPS
+
+Running a trading bot 24/7 needs a server that stays online. **[AgentVPS](https://agentvps.io)** provides VPS hosting for bots and automated trading setups, so your bot keeps running while your own computer is off.
+
+- Always-on servers for bots and scripts
+- Stable connections for faster, more reliable trading
+- Set up and manage your bot from anywhere
+
+**[Get started with AgentVPS](https://agentvps.io)**
 
 👉 **Recommended for serious Solana traders**
 
